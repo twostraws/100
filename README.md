@@ -15,22 +15,22 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 
 
-## Project 1:
+## Project 1
 
-* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project1) - [Challenge](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Challenges)
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-018)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P01%20StormViewer)
 
 <p>&nbsp;</p>
 
-## Project 2:
+## Project 2
 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-021)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P02%20GuessTheFlag)
 
 <p>&nbsp;</p>
 
-## Project 3:
+## Project 3
 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-022)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P03%20StormViewer%2BActivityVC)
