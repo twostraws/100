@@ -17,6 +17,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 1:
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project1) - [Challenge](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-018)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P01%20StormViewer)
 
