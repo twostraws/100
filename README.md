@@ -91,6 +91,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 7-9
 
+* [nemecek-filip](https://github.com/nemecek-filip/hangman.challenge)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C03%20Hangman)
 
 <p>&nbsp;</p>
