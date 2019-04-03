@@ -82,6 +82,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 7
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project7-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P07%20WhiteHousePetitions)
 
 <p>&nbsp;</p>
