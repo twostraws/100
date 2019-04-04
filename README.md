@@ -94,7 +94,10 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 9
 
-* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09%20WhiteHousePetitions%20%2B%20GCD)
+* robbaldwin [Challenge
+    1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09A%20StormViewer%20%2B%20GCD) [Challenge
+    2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09B%20SwiftyWords%20%2B%20GCD) [Challenge
+    3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09C%20WhiteHousePetitions%20%2B%20GCD)
 
 <p>&nbsp;</p>
 
