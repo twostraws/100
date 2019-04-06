@@ -76,6 +76,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
+* [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C02%20ShoppingList%20v2)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C02%20ShoppingList)
 
 <p>&nbsp;</p>
@@ -96,7 +97,10 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 9
 
-* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09%20WhiteHousePetitions%20%2B%20GCD)
+* robbaldwin [Challenge
+    1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09A%20StormViewer%20%2B%20GCD) [Challenge
+    2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09B%20SwiftyWords%20%2B%20GCD) [Challenge
+    3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09C%20WhiteHousePetitions%20%2B%20GCD)
 
 <p>&nbsp;</p>
 
@@ -145,12 +149,14 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 15
 
+* jsonify [Challenge 2](https://github.com/jsonify/HackingWithSwift/tree/master/P13%20InstaFilter%20%2B%20Xtras) [Challenge 3](https://github.com/jsonify/HackingWithSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15A%20SwiftyWords%20%2B%20Animation) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15B%20Instafilter%20%2B%20Animation) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 
 <p>&nbsp;</p>
 
 ## Milestone: Projects 13-15
 
+* [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C05B%20CountryFacts%20%2B%20SearchBar)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C05%20CountryFacts)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Day50_challenge)
 
@@ -158,6 +164,15 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 16
 
+* [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P16B%20CapitalCities%20%2B%20CountryFacts)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P16%20CapitalCities)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project16) 
 
+<p>&nbsp;</p>
+
+## Project 17
+
+* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P17%20SpaceRace)
+* [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project17) 
+
+<p>&nbsp;</p>
