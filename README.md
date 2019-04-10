@@ -97,6 +97,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 9
 
+* cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Day40%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Day40%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project9-Challenges)
 * robbaldwin [Challenge
     1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09A%20StormViewer%20%2B%20GCD) [Challenge
     2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09B%20SwiftyWords%20%2B%20GCD) [Challenge
