@@ -21,6 +21,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-018)
 * [DaemonLoki](https://github.com/DaemonLoki/100DaysOfSwift/tree/master/Storm%20Viewer)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P01%20StormViewer)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%201)
 
 <p>&nbsp;</p>
 
@@ -30,6 +31,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-021)
 * [DaemonLoki](https://github.com/DaemonLoki/100DaysOfSwift/tree/master/Guess%20the%20Flag)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P02%20GuessTheFlag)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%202)
 
 <p>&nbsp;</p>
 
@@ -38,6 +40,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-022)
 * [DaemonLoki](https://github.com/DaemonLoki/100DaysOfSwift/tree/master/Storm%20Viewer%20Social)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P03%20StormViewer%2BActivityVC)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%203)
 
 <p>&nbsp;</p>
 
@@ -46,6 +49,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidated2)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-023)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C01%20World%20Flags)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%201-3)
 
 <p>&nbsp;</p>
 
@@ -54,6 +58,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project4-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-026)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P04%20EasyBrowser)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%204)
 
 <p>&nbsp;</p>
 
@@ -61,6 +66,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-029)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P05%20WordScramble)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project5)
 
 <p>&nbsp;</p>
 
@@ -69,6 +75,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project6b-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-031)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P06B%20AutoLayout)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project6b)
 
 <p>&nbsp;</p>
 
@@ -78,6 +85,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C02%20ShoppingList%20v2)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C02%20ShoppingList)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%204-6)
 
 <p>&nbsp;</p>
 
@@ -85,6 +93,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project7-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P07%20WhiteHousePetitions)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project7)
 
 <p>&nbsp;</p>
 
