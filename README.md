@@ -138,12 +138,14 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 12
 
+* cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Day49%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project2-Day49%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project5-Day49%20Challenge)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P12C%20StormViewer%20%2B%20Saving%20View%20Count) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P12D%20GuessTheFlag%20%2B%20High%20Score) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P12E%20WordScramble%20%2B%20UserDefaults)
 
 <p>&nbsp;</p>
 
 ## Milestone: Projects 10-12
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation5)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C04%20CameraCaptions)
 
 <p>&nbsp;</p>
