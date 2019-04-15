@@ -190,8 +190,15 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 16-18
 
+* [nocto7](https://github.com/nocto7/Day66)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C06%20ShootingGallery)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Day66_challenge)
+
+<p>&nbsp;</p>
+
+## Project 19
+
+* [nocto7](https://github.com/nocto7/Project19)
 
 <p>&nbsp;</p>
 
