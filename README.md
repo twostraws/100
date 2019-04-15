@@ -124,7 +124,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 10
 
-* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation4)
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project10-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P10%20NamesToFaces)
 
 <p>&nbsp;</p>
