@@ -152,6 +152,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 13
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project13)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P13A%20Instafilter%20-%20Challenge)
 
 <p>&nbsp;</p>
