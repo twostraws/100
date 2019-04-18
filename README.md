@@ -225,3 +225,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Milestone: Projects 19-21
 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C07%20Notes)
+
+## Project 22
+
+* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P22%20Detect-A-Beacon)
