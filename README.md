@@ -228,6 +228,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 22
 
+* [llelen](https://github.com/llelen/100Days/tree/master/22_projecct_2)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P22%20Detect-A-Beacon)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project22_iBeacon)
 
