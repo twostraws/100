@@ -209,6 +209,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Project 20
 
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P20%20FireworksNight%20%2B%20Screen)
+* [nocto7](https://github.com/nocto7/Project20)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P20%20FireworksNight)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project20)
 
@@ -216,6 +217,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 21
 
+* [nocto7](https://github.com/nocto7/Project-21)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P21A%20LocalNotifications%20%2B%20UIAlerts) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P21B%20LocalNotifications%20%2B%20Remind%20Later) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P21C%20GuessTheFlag%20%2B%20Notifications)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project21_notifications)
 
@@ -223,4 +225,5 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 19-21
 
+* [nocto7](https://github.com/nocto7/Notebook)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C07%20Notes)
