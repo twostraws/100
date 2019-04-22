@@ -239,8 +239,8 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 23
 
+* [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P23C%20Swifty%20Ninja%20%2B%20Bonus%20Enemy%20%2B%20GameOver)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P23%20SwiftyNinja)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/project23)
-* [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P23C%20Swifty%20Ninja%20%2B%20Bonus%20Enemy%20%2B%20GameOver)
 
 <p>&nbsp;</p>
