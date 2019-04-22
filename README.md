@@ -244,3 +244,9 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/project23)
 
 <p>&nbsp;</p>
+
+## Project 24
+
+* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P24%20SwiftStrings)
+
+<p>&nbsp;</p>
