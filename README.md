@@ -234,9 +234,4 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-## Project 24
-
-* [llelen](https://github.com/llelen/24/tree/master/24_2project)
-
-<p>&nbsp;</p>
 
