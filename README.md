@@ -248,6 +248,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Project 24
 
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P24%20Swift%20Strings)
+* [llelen](https://github.com/llelen/24/tree/master/24_2project)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P24%20SwiftStrings)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project24_StringExtensions/Project24.playground)
 
