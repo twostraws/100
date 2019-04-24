@@ -101,6 +101,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P08%20SwiftyWords)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project8)
 
 <p>&nbsp;</p>
 
@@ -111,6 +112,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
     1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09A%20StormViewer%20%2B%20GCD) [Challenge
     2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09B%20SwiftyWords%20%2B%20GCD) [Challenge
     3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09C%20WhiteHousePetitions%20%2B%20GCD)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project9)
 
 <p>&nbsp;</p>
 
@@ -119,12 +121,14 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation4)
 * [nemecek-filip](https://github.com/nemecek-filip/hangman.challenge)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C03%20Hangman)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%207-9)
 
 <p>&nbsp;</p>
 
 ## Project 10
 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P10%20NamesToFaces)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project10)
 
 <p>&nbsp;</p>
 
