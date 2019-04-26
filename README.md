@@ -159,12 +159,14 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 14
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project14-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P14%20Whack-A-Penguin)
 
 <p>&nbsp;</p>
 
 ## Project 15
 
+* cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Day58%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project13-Day58%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project2-Day58%20Challenge)
 * jsonify [Challenge 2](https://github.com/jsonify/HackingWithSwift/tree/master/P13%20InstaFilter%20%2B%20Xtras) [Challenge 3](https://github.com/jsonify/HackingWithSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15A%20SwiftyWords%20%2B%20Animation) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15B%20Instafilter%20%2B%20Animation) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 
@@ -172,6 +174,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 13-15
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation6)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C05B%20CountryFacts%20%2B%20SearchBar)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C05%20CountryFacts)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Day50_challenge)
@@ -180,6 +183,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 16
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project16-Challenges)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C05C%20CountryFacts%20%2B%20SearchBar%20%2B%20TableView)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P16%20CapitalCities)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project16)
