@@ -267,7 +267,17 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C08%20Extensions)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/MilestoneProject22-24/Milestone22-24.playground)
 
+<p>&nbsp;</p>
+
 ## Project 25
 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P25%20SelfieShare)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project25_peerToPeer)
+
+<p>&nbsp;</p>
+
+## Project 26
+
+* [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project26_Accelerometer_game)
+
+<p>&nbsp;</p>
