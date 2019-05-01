@@ -240,6 +240,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Project 22
 
 * [llelen](https://github.com/llelen/100Days/tree/master/22_projecct_2)
+* [nocto7](https://github.com/nocto7/Project22)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P22%20Detect-A-Beacon)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project22_iBeacon)
 
@@ -257,6 +258,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P24%20Swift%20Strings)
 * [llelen](https://github.com/llelen/24/tree/master/24_2project)
+* [nocto7](https://github.com/nocto7/Project24)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P24%20SwiftStrings)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project24_StringExtensions/Project24.playground)
 
@@ -271,6 +273,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 25
 
+* [nocto7](https://github.com/nocto7/Project25)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P25%20SelfieShare)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project25_peerToPeer)
 
