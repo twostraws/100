@@ -283,3 +283,9 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project26_Accelerometer_game)
 
 <p>&nbsp;</p>
+
+## Project 27
+
+* robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27A%20CoreGraphics%20Emoji) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27B%20CoreGraphics%20TWIN) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27C%20StormViewer%2BCoreGraphics)
+
+<p>&nbsp;</p>
