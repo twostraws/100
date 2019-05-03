@@ -290,9 +290,13 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Project 27
 
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27A%20CoreGraphics%20Emoji) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27B%20CoreGraphics%20TWIN) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27C%20StormViewer%2BCoreGraphics)
+* [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/P27)
 
 <p>&nbsp;</p>
 
 ## Milestone: Projects 25-27
 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C09%20Meme)
+* [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Milestone25-27)
+
+<p>&nbsp;</p>
