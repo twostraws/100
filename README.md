@@ -240,6 +240,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Project 22
 
 * [llelen](https://github.com/llelen/100Days/tree/master/22_projecct_2)
+* [nocto7](https://github.com/nocto7/Project22)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P22%20Detect-A-Beacon)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project22_iBeacon)
 
@@ -257,6 +258,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P24%20Swift%20Strings)
 * [llelen](https://github.com/llelen/24/tree/master/24_2project)
+* [nocto7](https://github.com/nocto7/Project24)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P24%20SwiftStrings)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project24_StringExtensions/Project24.playground)
 
@@ -271,6 +273,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 25
 
+* [nocto7](https://github.com/nocto7/Project25)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P25%20SelfieShare)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project25_peerToPeer)
 
@@ -278,6 +281,18 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 26
 
+* [llelen](https://github.com/llelen/100all/tree/master/26)
+* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P26%20MarbleMaze)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project26_Accelerometer_game)
 
 <p>&nbsp;</p>
+
+## Project 27
+
+* robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27A%20CoreGraphics%20Emoji) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27B%20CoreGraphics%20TWIN) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27C%20StormViewer%2BCoreGraphics)
+
+<p>&nbsp;</p>
+
+## Milestone: Projects 25-27
+
+* [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C09%20Meme)
