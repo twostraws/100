@@ -300,3 +300,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Milestone25-27)
 
 <p>&nbsp;</p>
+
+## Project 28
+
+* robbaldwin [Challenge 1 & 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28%20SecretSwift) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28A%20NamesToFaces%20%2B%20Authentication)
