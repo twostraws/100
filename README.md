@@ -323,8 +323,6 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 ## Milestone: Projects 28-30
 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C10%20Pairs)
