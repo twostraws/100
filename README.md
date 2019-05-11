@@ -196,6 +196,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 17
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project17-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P17%20SpaceRace)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project17)
 
@@ -217,6 +218,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 20
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project20-Challenges)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P20%20FireworksNight%20%2B%20Screen)
 * [nocto7](https://github.com/nocto7/Project20)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P20%20FireworksNight)
