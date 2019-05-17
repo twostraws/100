@@ -76,6 +76,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/06-Project5)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-029)
+* [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D27-29-Project05)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P05%20WordScramble)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project5)
 
