@@ -80,6 +80,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project6b-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-031)
+* ignasiperez [Project 6a](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D30-30-Project06a) [Project 6b](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D30-31-Project06b)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P06B%20AutoLayout)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project6b)
 
