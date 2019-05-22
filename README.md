@@ -98,6 +98,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/09-MilestoneProjects4-6)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
+* [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D32-32-Milestone-P04-06)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C02%20ShoppingList%20v2)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C02%20ShoppingList)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%204-6)
