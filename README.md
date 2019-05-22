@@ -41,7 +41,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 3
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/03-Project3)
+* clarknt [Project3](https://github.com/clarknt/100-days-of-swift/tree/master/03-Project3) [Challenge2](https://github.com/clarknt/100-days-of-swift/tree/master/04-Project3-Challenge2) [Challenge3](https://github.com/clarknt/100-days-of-swift/tree/master/05-Project3-Challenge3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-022)
 * [DaemonLoki](https://github.com/DaemonLoki/100DaysOfSwift/tree/master/Storm%20Viewer%20Social)
 * ignasiperez [Challenge 1](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D22-22-Project03-C1) [Challenge 2](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D22-22-Project03-C2) [Challenge 3](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D22-22-Project03-C3)
@@ -52,7 +52,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 1-3
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/04-Milestone-Projects1-3)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/06-Milestone-Projects1-3)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidated2)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-023)
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D23-23-Milestone-P01-03)
@@ -63,7 +63,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 4
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/05-Project4)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/07-Project4)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project4-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-026)
 * ignasiperez [Challenge 1 & 2](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D24-26-Project04-C2) [Challenge 3](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D24-26-Project04-C3)
@@ -74,7 +74,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 5
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/06-Project5)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/08-Project5)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-029)
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D27-29-Project05)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P05%20WordScramble)
@@ -84,7 +84,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 6
 
-* clarknt [Project 6a](https://github.com/clarknt/100-days-of-swift/tree/master/07-Project6a) [Project 6b](https://github.com/clarknt/100-days-of-swift/tree/master/08-Project6b)
+* clarknt [Project 6a](https://github.com/clarknt/100-days-of-swift/tree/master/09-Project6a) [Project 6b](https://github.com/clarknt/100-days-of-swift/tree/master/10-Project6b)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project6b-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-031)
 * ignasiperez [Project 6a](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D30-30-Project06a) [Project 6b](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D30-31-Project06b)
@@ -95,7 +95,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 4-6
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/09-MilestoneProjects4-6)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/11-MilestoneProjects4-6)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D32-32-Milestone-P04-06)
@@ -107,6 +107,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 7
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/12-Project7)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project7-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P07%20WhiteHousePetitions)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project7)
@@ -115,6 +116,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 8
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/13-Project8)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P08%20SwiftyWords)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project8)
@@ -123,6 +125,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 9
 
+* clarknt [Project9](https://github.com/clarknt/100-days-of-swift/tree/master/14-Project9) [Challenge1](https://github.com/clarknt/100-days-of-swift/tree/master/15-Project9-Challenge1) [Challenge2](https://github.com/clarknt/100-days-of-swift/tree/master/16-Project9-Challenge2) [Challenge3](https://github.com/clarknt/100-days-of-swift/tree/master/17-Project9-Challenge3)
 * cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Day40%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Day40%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project9-Challenges)
 * robbaldwin [Challenge
     1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P09A%20StormViewer%20%2B%20GCD) [Challenge
@@ -134,6 +137,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 7-9
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/18-MilestoneProjects7-9)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation4)
 * [nemecek-filip](https://github.com/nemecek-filip/hangman.challenge)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C03%20Hangman)
