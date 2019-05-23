@@ -256,6 +256,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 19-21
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation8)
 * [nocto7](https://github.com/nocto7/Notebook)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C07%20Notes)
 
