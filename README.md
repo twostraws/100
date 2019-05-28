@@ -95,7 +95,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 4-6
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/11-MilestoneProjects4-6)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/11-Milestone-Projects4-6)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D32-32-Milestone-P04-06)
@@ -138,7 +138,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 7-9
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/18-MilestoneProjects7-9)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/18-Milestone-Projects7-9)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation4)
 * [nemecek-filip](https://github.com/nemecek-filip/hangman.challenge)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C03%20Hangman)
@@ -173,7 +173,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 10-12
 
-* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/27-MilestoneProjects10-12)
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/27-Milestone-Projects10-12)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation5)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C04%20CameraCaptions)
 
@@ -181,6 +181,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 13
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/28-Project13)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project13)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P13A%20Instafilter%20-%20Challenge)
 
@@ -188,6 +189,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 14
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/29-Project14)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project14-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P14%20Whack-A-Penguin)
 
@@ -195,6 +197,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 15
 
+* clarknt [Project 15](https://github.com/clarknt/100-days-of-swift/tree/master/30-Project15), [Challenge 1](https://github.com/clarknt/100-days-of-swift/tree/master/31-Project15-Challenge1), [Challenge 2](https://github.com/clarknt/100-days-of-swift/tree/master/32-Project15-Challenge2), [Challenge 3](https://github.com/clarknt/100-days-of-swift/tree/master/33-Project15-Challenge3)
 * cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Day58%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project13-Day58%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project2-Day58%20Challenge)
 * jsonify [Challenge 2](https://github.com/jsonify/HackingWithSwift/tree/master/P13%20InstaFilter%20%2B%20Xtras) [Challenge 3](https://github.com/jsonify/HackingWithSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15A%20SwiftyWords%20%2B%20Animation) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15B%20Instafilter%20%2B%20Animation) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
@@ -203,6 +206,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 13-15
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/34-Milestone-Projects13-15)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation6)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C05B%20CountryFacts%20%2B%20SearchBar)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C05%20CountryFacts)
