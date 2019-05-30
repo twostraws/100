@@ -301,6 +301,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 22-24
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation9.playground)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C08%20Extensions)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/MilestoneProject22-24/Milestone22-24.playground)
 
