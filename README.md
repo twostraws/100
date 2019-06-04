@@ -37,6 +37,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D19-21-Project02)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P02%20GuessTheFlag)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%202)
+* [Will-1-Am](https://github.com/Will-1-Am/100DaysOfSwift/tree/master/Project02)
 
 <p>&nbsp;</p>
 
