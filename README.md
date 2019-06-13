@@ -323,6 +323,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 25
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project25-Challenges)
 * [nocto7](https://github.com/nocto7/Project25)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P25%20SelfieShare)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project25_peerToPeer)
