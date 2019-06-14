@@ -285,6 +285,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 22
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/46-Project22)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project22)
 * [llelen](https://github.com/llelen/100Days/tree/master/22_projecct_2)
 * [nocto7](https://github.com/nocto7/Project22)
@@ -295,6 +296,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 23
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/47-Project23)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project23-Challenges)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P23C%20Swifty%20Ninja%20%2B%20Bonus%20Enemy%20%2B%20GameOver)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P23%20SwiftyNinja)
@@ -304,6 +306,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 24
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/48-Project24)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project24-Challenges.playground)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P24%20Swift%20Strings)
 * [llelen](https://github.com/llelen/24/tree/master/24_2project)
@@ -315,6 +318,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 22-24
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/49-Milestone-Projects22-24)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation9.playground)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C08%20Extensions)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/MilestoneProject22-24/Milestone22-24.playground)
