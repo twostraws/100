@@ -24,6 +24,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D16-18-Project01)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P01%20StormViewer)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%201)
+* [Will-1-Am](https://github.com/Will-1-Am/100DaysOfSwift/tree/master/Project01/Project1)
 
 <p>&nbsp;</p>
 
@@ -36,6 +37,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D19-21-Project02)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P02%20GuessTheFlag)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%202)
+* [Will-1-Am](https://github.com/Will-1-Am/100DaysOfSwift/tree/master/Project02/Project2)
 
 <p>&nbsp;</p>
 
@@ -47,6 +49,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * ignasiperez [Challenge 1](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D22-22-Project03-C1) [Challenge 2](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D22-22-Project03-C2) [Challenge 3](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D22-22-Project03-C3)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P03%20StormViewer%2BActivityVC)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%203)
+* [Will-1-Am](https://github.com/Will-1-Am/100DaysOfSwift/tree/master/Project03/Project3)
 
 <p>&nbsp;</p>
 
