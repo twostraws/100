@@ -339,6 +339,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 26
 
+* [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project26-Challenges)
 * [llelen](https://github.com/llelen/100all/tree/master/26)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P26%20MarbleMaze)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project26_Accelerometer_game)
