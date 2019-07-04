@@ -348,6 +348,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 25
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/50-Project25)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project25-Challenges)
 * [nocto7](https://github.com/nocto7/Project25)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P25%20SelfieShare)
@@ -357,6 +358,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 26
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/51-Project26)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project26-Challenges)
 * [llelen](https://github.com/llelen/100all/tree/master/26)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P26%20MarbleMaze)
@@ -366,6 +368,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 27
 
+* clarknt [Project 27](https://github.com/clarknt/100-days-of-swift/tree/master/52-Project27), [Challenge 3](https://github.com/clarknt/100-days-of-swift/tree/master/53-Project27-Challenge3)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27A%20CoreGraphics%20Emoji) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27B%20CoreGraphics%20TWIN) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27C%20StormViewer%2BCoreGraphics)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/P27)
 
@@ -373,8 +376,15 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 25-27
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/54-Milestone-Projects25-27)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C09%20Meme)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Milestone25-27)
+
+<p>&nbsp;</p>
+
+## Core Graphics redux
+
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/55-CoreGraphics-Redux)
 
 <p>&nbsp;</p>
 
