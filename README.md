@@ -58,6 +58,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/06-Milestone-Projects1-3)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidated2)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-023)
+* [Hrvoje0099](https://github.com/Hrvoje0099/100-days-of-swift/tree/master/Challenge1)
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D23-23-Milestone-P01-03)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C01%20World%20Flags)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%201-3)
@@ -101,6 +102,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/11-Milestone-Projects4-6)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
+* [Hrvoje0099](https://github.com/Hrvoje0099/100-days-of-swift/tree/master/Challenge2)
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D32-32-Milestone-P04-06)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/C02%20ShoppingList%20v2)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C02%20ShoppingList)
@@ -144,6 +146,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/18-Milestone-Projects7-9)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation4)
+* [Hrvoje0099](https://github.com/Hrvoje0099/100-days-of-swift/tree/master/Challenge3)
 * [nemecek-filip](https://github.com/nemecek-filip/hangman.challenge)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C03%20Hangman)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%207-9)
