@@ -395,6 +395,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 28
 
+* clarknt [Project 28](https://github.com/clarknt/100-days-of-swift/tree/master/56-Project28), [Challenge 3](https://github.com/clarknt/100-days-of-swift/tree/master/57-Project28-Challenge3)
 * robbaldwin [Challenge 1 & 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28%20SecretSwift) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28A%20NamesToFaces%20%2B%20Authentication)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project28_faceID)
 
@@ -402,6 +403,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 29
 
+* [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/58-Project29)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P29%20ExplodingMonkeys)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project29_gorillas)
 
@@ -409,6 +411,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 30
 
+* clarknt [Project 30](https://github.com/clarknt/100-days-of-swift/tree/master/59-Project30), [Challenge 2](https://github.com/clarknt/100-days-of-swift/tree/master/60-Project30-Challenge2)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/project30-files)
 
 <p>&nbsp;</p>
