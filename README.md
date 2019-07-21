@@ -184,6 +184,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/28-Milestone-Projects10-12)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation5)
+* [Hrvoje0099](https://github.com/Hrvoje0099/100-days-of-swift/tree/master/Challenge4)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C04%20CameraCaptions)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2010-12)
 
