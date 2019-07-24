@@ -397,6 +397,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 ## Project 28
 
 * clarknt [Project 28](https://github.com/clarknt/100-days-of-swift/tree/master/56-Project28), [Challenge 3](https://github.com/clarknt/100-days-of-swift/tree/master/57-Project28-Challenge3)
+* cweirup [Challenge 1 & 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project28-Challenges) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project10-Day93%20Challenges)
 * robbaldwin [Challenge 1 & 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28%20SecretSwift) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28A%20NamesToFaces%20%2B%20Authentication)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project28_faceID)
 
