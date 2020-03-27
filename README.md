@@ -24,6 +24,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [ignasiperez](https://github.com/ignasiperez/100DaysOfSwiftChallenge/tree/master/D16-18-Project01)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P01%20StormViewer)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project%201)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/blob/master/Project%2001%20-%20HWS%20Storm%20Viewer/Project1/ViewController.swift)
 * [Will-1-Am](https://github.com/Will-1-Am/100DaysOfSwift/tree/master/Project01/Project1)
 
 <p>&nbsp;</p>
