@@ -211,6 +211,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project13)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P13A%20Instafilter%20-%20Challenge)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project13)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2013.3%20-%20HWS%20Instafilter)
 
 <p>&nbsp;</p>
 
@@ -220,6 +221,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project14-Challenges)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P14%20Whack-A-Penguin)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project14)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2014%20(1%2C%202%2C%203)%20-%20HWS%20Whack-A-Penguin)
 
 <p>&nbsp;</p>
 
@@ -230,6 +232,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * jsonify [Challenge 2](https://github.com/jsonify/HackingWithSwift/tree/master/P13%20InstaFilter%20%2B%20Xtras) [Challenge 3](https://github.com/jsonify/HackingWithSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15A%20SwiftyWords%20%2B%20Animation) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15B%20Instafilter%20%2B%20Animation) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P15C%20GuessTheFlag%20%2B%20Animation)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project15)
+* Thomas-Kellough [Challenge 1](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2015.1%20-%20HWS%20Seven%20Swifty%20Words) [Challenge 2](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2015.2%20-%20HWS%20Instafilter) [Challenge 3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2015.3%20-%20HWS%20Flag%20Game)
 
 <p>&nbsp;</p>
 
@@ -241,6 +244,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C05%20CountryFacts)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Day50_challenge)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2013-15)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2013-15)
 
 <p>&nbsp;</p>
 
@@ -252,6 +256,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P16%20CapitalCities)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project16)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project16)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2016.3%20-%20HWS%20Capital%20Cities)
 
 <p>&nbsp;</p>
 
@@ -262,6 +267,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P17%20SpaceRace)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project17)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project17)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2017.3%20-%20HWS%20Space%20Race)
 
 <p>&nbsp;</p>
 
@@ -279,6 +285,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C06%20ShootingGallery)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Day66_challenge)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2016-18)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2016-18)
 
 <p>&nbsp;</p>
 
@@ -299,6 +306,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P20%20FireworksNight)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project20)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project20)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2020.3%20-%20HWS%20Fireworks%20Night)
 
 <p>&nbsp;</p>
 
@@ -309,6 +317,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P21A%20LocalNotifications%20%2B%20UIAlerts) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P21B%20LocalNotifications%20%2B%20Remind%20Later) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P21C%20GuessTheFlag%20%2B%20Notifications)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project21_notifications)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project21)
+* Thomas-Kellough [Challenge 1 & 2](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.2%20-%20HWS%20Local%20Notifications/Project%2021%20-%20HWS%20Local%20Notifications) [Challenge 3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.3%20-%20HWS%20Flag%20Game)
 
 <p>&nbsp;</p>
 
@@ -319,6 +328,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [nocto7](https://github.com/nocto7/Notebook)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C07%20Notes)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2019-21)
+* [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2019-21)
 
 ## Project 22
 
