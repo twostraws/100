@@ -459,3 +459,4 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C10%20Pairs)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project99_cardGame_challenge)
 * [nemecek-filip](https://github.com/nemecek-filip/PairsGame)
+* [Thomas-Kellough](https://github.com/thomaskellough/flingomatch)
