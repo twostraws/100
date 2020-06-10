@@ -375,6 +375,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation9.playground)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C08%20Extensions)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/MilestoneProject22-24/Milestone22-24.playground)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2022-24.playground)
 * [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2022-24)
 
 <p>&nbsp;</p>
@@ -386,6 +387,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [nocto7](https://github.com/nocto7/Project25)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P25%20SelfieShare)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project25_peerToPeer)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project25)
 * [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/blob/master/Project%2025.3%20-%20HWS%20Selfie%20Share/Project%2025%20-%20HWS%20Selfie%20Share/ViewController.swift)
 
 <p>&nbsp;</p>
@@ -397,6 +399,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [llelen](https://github.com/llelen/100all/tree/master/26)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P26%20MarbleMaze)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project26_Accelerometer_game)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project26)
 * [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2026.3%20-%20HWS%20Marble%20Maze)
 
 <p>&nbsp;</p>
@@ -407,6 +410,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * cweirup [Challenges 1 & 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project27) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project3-Day89%20Challenge)
 * robbaldwin [Challenge 1](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27A%20CoreGraphics%20Emoji) [Challenge 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27B%20CoreGraphics%20TWIN) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P27C%20StormViewer%2BCoreGraphics)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/P27)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project27)
 * Thomas-Kellough [Challenge 1 & 2](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2027.1and2%20-%20HWS%20Core%20Graphics) [Challenge 3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2027.3%20-%20HWS%20Storm%20Viewer)
 
 <p>&nbsp;</p>
@@ -417,12 +421,14 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation10)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C09%20Meme)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Milestone25-27)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2025-27)
 * [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2025-27)
 
 <p>&nbsp;</p>
 
 ## Core Graphics redux
 
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2025-27%20-%20Core%20Graphics%20Redux)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/37-CoreGraphics-Redux)
 
 <p>&nbsp;</p>
@@ -433,6 +439,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * cweirup [Challenge 1 & 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project28-Challenges) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project10-Day93%20Challenges)
 * robbaldwin [Challenge 1 & 2](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28%20SecretSwift) [Challenge 3](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P28A%20NamesToFaces%20%2B%20Authentication)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project28_faceID)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project28)
 * Thomas-Kellough [Challenge 1 & 2](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.2%20-%20HWS%20Secret%20Swift) [Challenge 3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.3%20-%20HWS%20Names%20to%20Faces)
 
 <p>&nbsp;</p>
@@ -442,6 +449,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/39-Project29)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P29%20ExplodingMonkeys)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/Project29_gorillas)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project29)
 * [Thomas-Kellough](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2029.2and3%20-%20HWS%20Exploding%20Monkeys)
 
 <p>&nbsp;</p>
@@ -450,6 +458,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/40-Project30)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/project30-files)
+* [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Project30)
 
 <p>&nbsp;</p>
 
