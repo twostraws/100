@@ -17,6 +17,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 1
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-01-StormViewer)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/01-Project1)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-018)
@@ -33,6 +34,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 2
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-02-GuessTheFlag)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/02-Project2)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project2-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-021)
@@ -49,6 +51,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 3
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-03-SocialMedia)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/03-Project3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-022)
 * [DaemonLoki](https://github.com/DaemonLoki/100DaysOfSwift/tree/master/Storm%20Viewer%20Social)
@@ -64,6 +67,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 1-3
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-01-03-WorldFlags)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/04-Milestone-Projects1-3)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidated2)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-023)
@@ -79,6 +83,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 4
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-04-EasyBrowser)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/05-Project4)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project4-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-026)
@@ -93,6 +98,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 5
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-05-WordScramble)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/06-Project5)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-029)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Word%20Scramble)
@@ -106,6 +112,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 6
 
+* AnxietyMedicine [Project 6A](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-06-A-GuessTheFlag) & [Project 6B](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-06-B-AutoLayout)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/07-Project6)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project6b-Challenges)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-031)
@@ -120,6 +127,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 4-6
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-04-06-ShoppingList)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/08-Milestone-Projects4-6)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation3)
 * [CypherPoet](https://github.com/CypherPoet/100-days-of-swift/tree/master/day-032)
@@ -136,6 +144,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 7
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-07-WhitehousePetitions)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/09-Project7)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project7-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Whitehouse%20Petitions)
@@ -149,6 +158,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 8
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-08-SwiftyWords)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/10-Project8)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/7%20Swifty%20Words)
@@ -161,6 +171,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 9
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-09-GrandCentralDispatch)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/11-Project9)
 * cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Day40%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Day40%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project9-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Grand%20Central%20Dispatch)
@@ -176,6 +187,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 7-9
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-07-09-Hangman)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/12-Milestone-Projects7-9)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation4)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Hangman)
@@ -190,6 +202,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 10
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-10-NamesToFaces)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/13-Project10)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project10-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Names%20to%20Faces)
@@ -202,6 +215,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 11
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-11-Pachinko)
 * [clarnkt](https://github.com/clarknt/100-days-of-swift/tree/master/14-Project11)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project11-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Pachinko)
@@ -214,6 +228,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 12
 
+* AnxietyMedicine - [Project 12A](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-12-A-UserDefaults-NSCoding) & [Project 12B](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-12-B-UserDefaults-Codable)
 * [clarnkt](https://github.com/clarknt/100-days-of-swift/tree/master/15-Project12)
 * cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project1-Day49%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project2-Day49%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project5-Day49%20Challenge)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Pachinko)
@@ -226,6 +241,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 10-12
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-10-12-PhotoCaptions)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/16-Milestone-Projects10-12)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation5)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Captions%20to%20Photos)
@@ -239,6 +255,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 13
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-13-Instafilter)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/17-Project13)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project13)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Instafilter)
