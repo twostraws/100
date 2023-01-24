@@ -268,6 +268,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 14
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-14-Whack-a-Penguin)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/18-Project14)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project14-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Whack-a-Penguin)
@@ -280,6 +281,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 15
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-15-Animation)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/19-Project15)
 * cweirup [Challenge 1](https://github.com/cweirup/100-days-of-swift/tree/master/Project8-Day58%20Challenge) [Challenge 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project13-Day58%20Challenge) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project2-Day58%20Challenge)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Animation)
@@ -293,6 +295,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 13-15
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-13-15-CountryFacts)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/20-Milestone-Projects13-15)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation6)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Country%20Facts)
@@ -307,6 +310,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 16
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-16-CapitalCities)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/21-Project16)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project16-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Capital%20Cities)
@@ -321,6 +325,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 17
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-17-SpaceRace)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/22-Project17)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project17-Challenges)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Space%20Race)
@@ -334,6 +339,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 18
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-18-Debugging)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/23-Project18)
 * [emirhankarahan](https://github.com/EmirhanKarahan/100-Days-Of-Swift/tree/main/Debugging)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project18)
@@ -343,6 +349,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 16-18
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-16-18-ShootingGallery)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/24-Milestone-Projects16-18)
 * [nocto7](https://github.com/nocto7/Day66)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/MilestoneProject16-18)
@@ -355,6 +362,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 19
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-19-JavaScriptInjection)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/25-Project19)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project19)
 * [nocto7](https://github.com/nocto7/Project19)
@@ -364,6 +372,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 20
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-20-FireworksNight)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/26-Project20)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project20-Challenges)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P20%20FireworksNight%20%2B%20Screen)
@@ -378,6 +387,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 21
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-21-LocalNotifications)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/27-Project21)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project21)
 * [nocto7](https://github.com/nocto7/Project-21)
@@ -390,6 +400,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 19-21
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-19-21-NotesClone)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/28-Milestone-Projects19-21)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation8)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/MilestoneProject19-21)
@@ -400,6 +411,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 22
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-22-Detect-a-Beacon)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/29-Project22)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project22)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project22)
@@ -414,6 +426,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 23
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-23-SwiftyNinja)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/30-Project23)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project23-Challenges)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P23C%20Swifty%20Ninja%20%2B%20Bonus%20Enemy%20%2B%20GameOver)
@@ -427,6 +440,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 24
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-24-SwiftStrings)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/31-Project24)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project24-Challenges.playground)
 * [jsonify](https://github.com/jsonify/HackingWithSwift/tree/master/P24%20Swift%20Strings)
@@ -442,6 +456,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 22-24
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-22-24-ExtensionsPlayground)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/32-Milestone-Projects22-24)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation9.playground)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/MilestoneProject22-24/MilestoneProject22-24.playground)
@@ -454,6 +469,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 25
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-25-SelfieShare)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/33-Project25)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project25-Challenges)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project25)
@@ -467,6 +483,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 26
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-26-MarbleMaze)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/34-Project26)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Project26-Challenges)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project26)
@@ -480,6 +497,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 27
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-27-UsingCoreGraphics)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/35-Project27)
 * cweirup [Challenges 1 & 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project27) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project3-Day89%20Challenge)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project27)
@@ -492,6 +510,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 25-27
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-25-27-MemeGenerator)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/36-Milestone-Projects25-27)
 * [cweirup](https://github.com/cweirup/100-days-of-swift/tree/master/Consolidation10)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/MilestoneProject25-27)
@@ -504,6 +523,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Core Graphics redux
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/CoreGraphicsRedux)
 * [StartingCoding](https://github.com/StartingCoding/100DaysOfSwift/tree/master/Milestone%20Project%2025-27%20-%20Core%20Graphics%20Redux)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/37-CoreGraphics-Redux)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/CoreGraphicsRedux/Learn-Core-Graphics.playground)
@@ -511,6 +531,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 28
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-28-SecretSwift)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/38-Project28)
 * cweirup [Challenge 1 & 2](https://github.com/cweirup/100-days-of-swift/tree/master/Project28-Challenges) [Challenge 3](https://github.com/cweirup/100-days-of-swift/tree/master/Project10-Day93%20Challenges)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project28)
@@ -523,6 +544,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 29
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-29-ExplodingMonkeys)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/39-Project29)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project29)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/P29%20ExplodingMonkeys)
@@ -534,6 +556,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Project 30
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Project-30-Reactionist)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/40-Project30)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/Project30)
 * [roblack](https://github.com/roblack/100DaysOfSwift_challenges/tree/master/project30-files)
@@ -543,6 +566,7 @@ It would be nice to keep the repositories in alphabetical order based on GitHub 
 
 ## Milestone: Projects 28-30
 
+* [AnxietyMedicine](https://github.com/AnxietyMedicine/100DaysOfSwift/tree/main/Milestone-28-30-MemoryMatch)
 * [clarknt](https://github.com/clarknt/100-days-of-swift/tree/master/41-Milestone-Projects28-30)
 * [leoidiaz](https://github.com/leoidiaz/100DaysOfSwift/tree/master/MilestoneProject28-30)
 * [robbaldwin](https://github.com/robbaldwin/100DaysOfSwift/tree/master/C10%20Pairs)
